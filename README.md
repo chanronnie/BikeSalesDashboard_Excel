@@ -21,8 +21,8 @@ Each record represents a customer (customer ID, gender, marital status, income, 
 
 
 ## File Contents
-- View the raw data: **[BikeSales_Raw.xlsx](https://github.com/chanronnie/BikeSalesDashboard_Excel/blob/main/BikeSales_Raw.xlsx)**
-- View the Excel working sheets: **[BikeSales_Analysis.xlsx](https://github.com/chanronnie/BikeSalesDashboard_Excel/blob/main/BikeSales_Analysis.xlsx)**
+- Access the raw data: **[BikeSales_Raw.xlsx](https://github.com/chanronnie/BikeSalesDashboard_Excel/blob/main/BikeSales_Raw.xlsx)**
+- Access the Excel Workbook: **[BikeSales_Analysis.xlsx](https://github.com/chanronnie/BikeSalesDashboard_Excel/blob/main/BikeSales_Analysis.xlsx)**
   - View the raw dataset under the tab `bike_buyers`
   - View the cleaned dataset under the tab `Working Sheet`
   - View the dashboard under the tab `Dashboard`
